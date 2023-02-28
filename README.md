@@ -25,9 +25,9 @@ The first argument is to be picked from https://www.volby.cz/pls/ps2017nss/ps3?x
 
 EXAMPLE:
 
-input: Scrapper.py Olomouc data_table
+Input: ...>python Scrapper.py Olomouc data_table
 
-output: data_table.csv
+A table 'data_table.csv' is generated as an output.
     
 
 The code is freely available for anyone who might find it useful. Have fun!
