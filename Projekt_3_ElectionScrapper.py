@@ -394,6 +394,6 @@ def main(city_choice: str, output_name: str) -> csv:
 
 
 if __name__ == '__main__':
-    main('Olomouc', 'Volby2017_Olomouc')
+    main(sys.argv[1], sys.argv[2])
 
 
