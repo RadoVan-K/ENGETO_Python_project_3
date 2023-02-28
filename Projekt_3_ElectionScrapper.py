@@ -11,6 +11,7 @@ import bs4.element
 from requests import get
 from bs4 import BeautifulSoup as BSoup
 import csv
+import sys
 
 # imported data
 import dict_template
