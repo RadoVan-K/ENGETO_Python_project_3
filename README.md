@@ -26,6 +26,7 @@ The first argument is to be picked from https://www.volby.cz/pls/ps2017nss/ps3?x
 EXAMPLE:
 
 input: Scrapper.py Olomouc data_table
+
 output: data_table.csv
     
 
